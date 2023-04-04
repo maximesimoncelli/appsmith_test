@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "ChartManager",
+    "pageId": "Business dashboard",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Business dashboard_ChartManager",
+  "deleted": false,
+  "gitSyncId": "642bf03cb7078b5edf8cacf9_642bf049b7078b5edf8cad39"
+}
