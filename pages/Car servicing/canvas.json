@@ -2405,7 +2405,7 @@
                         }
                       ],
                       "truncateButtonColor": "#FFC13D",
-                      "text": "Details about service ID:<b> {{List.selectedItem.service_id}}",
+                      "text": "Test from dev:<b> {{List.selectedItem.service_id}}",
                       "key": "czyq0gtp0e",
                       "labelTextSize": "0.875rem",
                       "rightColumn": 54,
